@@ -20,7 +20,7 @@ $ git blame-someone-else <author>
 
 ## Disclaimer:
 
-`From nhansp: this will replace all of the commits with the new author. Try at your own risk.`
+`From nhansp: this will replace THE ENTIRE REPOSITORY with the new author. Try at your own risk.`
 
 This changes not only who authored the commit but the listed commiter as well. It also is something I wrote as a joke, so please don't run this against your production repo and complain if this script deletes everything.
 
