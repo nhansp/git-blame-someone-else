@@ -13,12 +13,14 @@ $ sudo make install
 ## Usage
 
 ```bash
-$ git blame-someone-else <author> <commit>
+$ git blame-someone-else <author>
 ```
 
 ![ezgif-1396449034](https://cloud.githubusercontent.com/assets/762949/12863650/068e2820-cc2e-11e5-80c5-6ebdb71f51ea.gif)
 
 ## Disclaimer:
+
+`From nhansp: this will replace all of the commits with the new author. Try at your own risk.`
 
 This changes not only who authored the commit but the listed commiter as well. It also is something I wrote as a joke, so please don't run this against your production repo and complain if this script deletes everything.
 
