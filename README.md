@@ -5,7 +5,7 @@
 ## Install
 
 ```bash
-$ git clone https://github.com/jayphelps/git-blame-someone-else.git
+$ git clone https://github.com/nhansp/git-blame-someone-else.git
 $ cd git-blame-someone-else
 $ sudo make install
 ```
