@@ -1,5 +1,5 @@
 # git-blame-someone-else
-`From nhansp: this will replace all of THE ENTIRE REPOSITORY with the new author. Try at your own risk.`
+`From nhansp: this will replace THE ENTIRE REPOSITORY with the new author. Try at your own risk.`
 
 
 > "I love git-blame-someone-else!!" -[Linus Torvalds says](https://github.com/jayphelps/git-blame-someone-else/commit/e5cfe4bb2190a2ae406d5f0b8f49c32ac0f01cd7)*
