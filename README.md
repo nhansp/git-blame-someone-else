@@ -18,7 +18,7 @@ $ sudo make install
 $ git blame-someone-else <author>
 ```
 
-![ezgif-1396449034](https://cloud.githubusercontent.com/assets/762949/12863650/068e2820-cc2e-11e5-80c5-6ebdb71f51ea.gif)
+![screencast](https://github.com/nhansp/nhansp/blob/main/screencast.gif?raw=true)
 
 ## Disclaimer:
 
